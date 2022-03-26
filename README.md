@@ -8,8 +8,6 @@
 
 <p align="center">📫 Contact me: <a href="tilinadilshan1999@gmail.com">tilinadilshan1999@gmail.com </a> </p>
 
-- 📫 Contact me: **tilinadilshan1999@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Thilina75704889?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Thilina75704889" height="30" width="40" /></a>
