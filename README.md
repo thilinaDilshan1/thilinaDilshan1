@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thilinaDilshan1)](https://git.io/streak-stats)
