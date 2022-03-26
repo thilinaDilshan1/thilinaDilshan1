@@ -2,6 +2,11 @@
 
 - 📫 Contact me: **tilinadilshan1999@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Thilina75704889?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Thilina75704889" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thilina-dilshan-b4bb8920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina-dilshan-b4bb8920a" height="30" width="40" /></a>
+</p>
 
  
 <!--
