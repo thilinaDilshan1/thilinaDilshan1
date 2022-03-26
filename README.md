@@ -1,4 +1,4 @@
-<p align="center"> ### Hi there I'm Thilina Dilshan 👋 </p>
+<h1 align="center">Hey 👋, I'm Thilina Dilshan</h1>
 
 <p></p><p></p>
 <div align="center">
