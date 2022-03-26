@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 <p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinaDilshan1&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="thilinaDilshan1" />    
 <p></p>
+<p>
 ![](https://komarev.com/ghpvc/?username=thilinaDilshan1)
-
+</p>
