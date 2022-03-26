@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thilinaDilshan1&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=thilinaDilshan1)
-<p align="left"> <a href="https://twitter.com/Thilina75704889?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/supritharavish1?logo=twitter&style=for-the-badge" alt="Thilina75704889" /></a> </p>
+
