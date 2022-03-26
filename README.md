@@ -1,5 +1,11 @@
 ### Hi there I'm Thilina Dilshan 👋
 
+<p></p><p></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&style=for-the-badge&color=blueviolet" alt="dilshankarunarathne" />
+</div>
+<p></p><p></p>
+
 - 📫 Contact me: **tilinadilshan1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
