@@ -2,7 +2,7 @@
 
 <p></p><p></p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshankarunarathne&style=for-the-badge&color=blueviolet" alt="dilshankarunarathne" />
+  <img src="https://komarev.com/ghpvc/?username=thilinaDilshan1&style=for-the-badge&color=blueviolet" alt="thilinaDilshan1" />
 </div>
 <p></p><p></p>
 
