@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="thilinaDilshan1" />
 <p></p>
 
-<p><img align="http://github-readme-streak-stats.herokuapp.com?user=thilinaDilshan1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="thilinaDilshan1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinaDilshan1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="thilinaDilshan1" /></p>
   </div>
 <p></p>
 
