@@ -12,7 +12,8 @@
 <p align="center">
 <a href="https://twitter.com/Thilina75704889?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Thilina75704889" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thilina-dilshan-b4bb8920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina-dilshan-b4bb8920a" height="30" width="40" /></a>
-<a href="tilinadilshan1999@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="tilinadilshan1999@gmail.com" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18590593/thilina-dilshan?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17761023" height="30" width="40" /></a>
+<a href="https://www.facebook.com/thilina.dilshan.7906" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Thilina Dilshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
