@@ -14,13 +14,7 @@
 <a href="https://www.linkedin.com/in/thilina-dilshan-b4bb8920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina-dilshan-b4bb8920a" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thilinaDilshan1&theme=dracula&title=Commits,Followers,Repositories&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="thilinaDilshan1" />
-</div>
-<p></p><p></p>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thilinaDilshan1&theme=dracula&title=Stars,MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="thilinaDilshan1" />
-</div> 
+ 
 <!--
 **thilinaDilshan1/thilinaDilshan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
