@@ -1,5 +1,6 @@
 ### Hi there I'm Thilina Dilshan 👋
 
+- 📫 Contact me: **supri161@gmail.com**
 <!--
 **thilinaDilshan1/thilinaDilshan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
