@@ -6,6 +6,8 @@
 </div>
 <p></p><p></p>
 
+<p align="center">📫 Contact me: tilinadilshan1999@gmail.com </p>
+
 - 📫 Contact me: **tilinadilshan1999@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
