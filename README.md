@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilinaDilshan1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thilinaDilshan1&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=thilinaDilshan1./)
+![](https://komarev.com/ghpvc/?username=thilinaDilshan1)
