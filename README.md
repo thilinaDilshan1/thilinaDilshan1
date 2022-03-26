@@ -31,16 +31,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thilinaDilshan1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="thilinaDilshan1">
+<img src="https://github-profile-trophy.vercel.app/?username=thilinaDilshan1&theme=radical" alt="thilinaDilshan1">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=radical" alt="thilinaDilshan">
-</div>
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=thilinaDilshan1&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" alt"thilinaDilshan1">
-</div>
+
 <p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinaDilshan1&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="thilinaDilshan1" />    
+<p></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="thilinaDilshan1" />
+<p></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinaDilshan1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="thilinaDilshan1" /></p>
+  </div>
 <p></p>
 
 
