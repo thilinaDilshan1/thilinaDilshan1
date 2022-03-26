@@ -1,4 +1,4 @@
-### Hi there I'm Thilina Dilshan 👋
+<p align="center"> ### Hi there I'm Thilina Dilshan 👋 </p>
 
 <p></p><p></p>
 <div align="center">
