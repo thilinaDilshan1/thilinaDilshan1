@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinaDilshan1&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="thilinaDilshan1" />    
 <p></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="thilinaDilshan1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=radical&locale=en&hide_border=true" alt="thilinaDilshan1" />
 <p></p>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=thilinaDilshan1&theme=radical)](https://git.io/streak-stats)
