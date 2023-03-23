@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=thilinaDilshan1&theme=radical)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilinaDilshan1&theme=radicala&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="thilinaDilshan1" /></p>
+
   </div>
 <p></p>
 
