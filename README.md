@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thilinaDilshan1&theme=radical" alt="Thilina's GitHub Contribution"/>
   </a>
 </p>
 
