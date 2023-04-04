@@ -54,7 +54,13 @@ Here are some ideas to get you started:
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=thilinaDilshan1&theme=radical)](https://git.io/streak-stats)
 
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
+  
   </div>
 <p></p>
 
