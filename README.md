@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinaDilshan1&show_icons=true&theme=radical&locale=en&hide_border=false" alt="thilinaDilshan1" />
 <p></p>
   
-<p>
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=thilinaDilshan1&theme=radical)](https://git.io/streak-stats)
-</p>
+
 
 <p align="center">
   <a href="https://github.com/thilinaDilshan1">
